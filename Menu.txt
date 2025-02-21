@@ -1,0 +1,142 @@
+**╭━━━━━━━【 *CYBER-DEXTER-MD* 】━━━━━━━**
+┃ 🎉 *Bot Name* : *CYBER-DEXTER-MD*
+┃ 💻 *Type* : *NodeJs*
+┃ 👥 *Team* : *RCD-TEAM*
+┃ ⚡ *Prefix* : *[${prefix}]*
+┃ 🆕 *Version* : *v 1.0.9*
+╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💫 *Hello, _${pushName}_! Welcome to CYBER-DEXTER-MD 👋*
+
+---
+
+**📥 `Download Menu`**  
+⏬ Get your media, music, and videos in an instant!  
+━━━━━━━━━━━━━━━━━━━━  
+• ${prefix}song - *Download a YouTube song* 🎶  
+• ${prefix}video - *Download YouTube videos* 🎥  
+• ${prefix}pinterestdl - *Download Pinterest media* 📸  
+• ${prefix}apk - *Download APK file* 📲  
+• ${prefix}tiktok - *Download TikTok video* 🎞️  
+• ${prefix}fb - *Download Facebook media* 📱  
+• ${prefix}play - *Play any YouTube audio* 🎧  
+━━━━━━━━━━━━━━━━━━━━
+
+---
+
+**🔧 `CYBER-DEXTER-MD Exclusive`**  
+🔒 Advanced bot commands for premium users!  
+━━━━━━━━━━━━━━━━━━━━  
+• ${prefix}set-reply - *Custom auto-reply message* 💬  
+• ${prefix}npm - *Search NPM packages* 🔍  
+• ${prefix}obfuscate - *Obfuscate your JavaScript* 💻  
+• ${prefix}remove-reply - *Remove auto-reply message* 🚫  
+• ${prefix}rule-reply - *Set autoresponder rules* 📜  
+━━━━━━━━━━━━━━━━━━━━
+
+---
+
+**💼 `Main Menu`**  
+📲 Manage the bot’s settings and interact with your users.  
+━━━━━━━━━━━━━━━━━━━━  
+• ${prefix}ping - *Check bot ping* ⚡  
+• ${prefix}send-st - *Status auto-share* 📤  
+• ${prefix}contact-push - *Push your contact* 📨  
+• ${prefix}voice - *Upload a voice message* 🎤  
+• ${prefix}anticall - *Enable auto-call reject* 🚫  
+• ${prefix}mode - *Switch bot’s public/private mode* 🔒  
+• ${prefix}boom - *Boom message media* 💥  
+• ${prefix}autoreact - *Toggle auto-react feature* 💥  
+• ${prefix}recording - *Fake recording status* 🎙️  
+• ${prefix}typing - *Fake typing status* ⌨️  
+• ${prefix}setstatusmsg - *Set status message* 📝  
+• ${prefix}runtime - *Bot runtime status* 🕒  
+• ${prefix}uptime - *Check bot uptime* 🕔  
+• ${prefix}repo - *Check bot repo* 📂  
+• ${prefix}owner - *Bot owner info* 👑  
+• ${prefix}support - *Contact support* 💬  
+• ${prefix}restart - *Restart bot* 🔄  
+━━━━━━━━━━━━━━━━━━━━
+
+---
+
+**👥 `Group Menu`**  
+🧑‍🤝‍🧑 Manage your group with ease!  
+━━━━━━━━━━━━━━━━━━━━  
+• ${prefix}cyberdexter-id - *Save all group members' contacts* 📝  
+• ${prefix}cyberdexter2-id - *Send a message to all group members* 📢  
+• ${prefix}kick - *Kick a member* ✋  
+• ${prefix}kick-all - *Kick all members* 🚫  
+• ${prefix}invite - *Invite members to the group* 📩  
+• ${prefix}promote - *Promote member to admin* 👑  
+• ${prefix}fullppgc - *Update group's profile picture* 🖼️  
+• ${prefix}goodbye - *Goodbye alert for leavers* 👋  
+• ${prefix}welcome - *Welcome new members* 🎉  
+• ${prefix}tagall - *Tag all group members* 📲  
+• ${prefix}mute - *Mute group* 🔕  
+• ${prefix}unmute - *Unmute group* 🔊  
+━━━━━━━━━━━━━━━━━━━━
+
+---
+
+**🛠️ `Owner Menu`**  
+⚙️ Advanced bot control for the owner.  
+━━━━━━━━━━━━━━━━━━━━  
+• ${prefix}owner - *Owner info* 👑  
+• ${prefix}menu - *Show all available menus* 📜  
+• ${prefix}listcmd - *List all commands* 📋  
+• ${prefix}allmenu - *Show all menus* 🗂️  
+• ${prefix}repo - *Show bot repository info* 🔍  
+• ${prefix}block - *Block a user* 🚫  
+• ${prefix}unblock - *Unblock a user* 🔓  
+• ${prefix}fullpp - *Set bot's full profile picture* 🖼️  
+• ${prefix}setpp - *Set profile picture* 🖼️  
+• ${prefix}restart - *Restart bot* 🔄  
+• ${prefix}shutdown - *Shutdown bot* ⛔  
+• ${prefix}updatecmd - *Update bot commands* 🔄  
+• ${prefix}alive - *Check if the bot is alive* 💚  
+• ${prefix}ping - *Check bot ping* ⚡  
+• ${prefix}gjid - *Get group ID* 🔢  
+• ${prefix}jid - *Get user ID* 🆔  
+━━━━━━━━━━━━━━━━━━━━
+
+---
+
+**🔄 `Convert Menu`**  
+🎨 Create and convert your media!  
+━━━━━━━━━━━━━━━━━━━━  
+• ${prefix}sticker - *Create a sticker* 🖼️  
+• ${prefix}sticker2 - *Create animated sticker* 💫  
+• ${prefix}fancy - *Create fancy text* ✨  
+• ${prefix}take - *Take a photo and create sticker* 📸  
+• ${prefix}tomp3 - *Convert to MP3* 🎵  
+• ${prefix}tts - *Text-to-speech* 🗣️  
+• ${prefix}trt - *Translate text* 🌍  
+━━━━━━━━━━━━━━━━━━━━
+
+---
+
+**🤖 `AI Menu`**  
+✨ Tap into the power of AI!  
+━━━━━━━━━━━━━━━━━━━━  
+• ${prefix}ai - *AI-based responses* 🤖  
+• ${prefix}gpt - *GPT AI conversation* 💬  
+• ${prefix}meta - *Meta AI assistant* 💡  
+• ${prefix}blackbox - *Blackbox AI* 🖤  
+• ${prefix}gpt4 - *Access GPT-4* 🔮  
+• ${prefix}bing - *Bing AI assistant* 🧑‍💻  
+• ${prefix}copilot - *GitHub Copilot* 👨‍💻  
+━━━━━━━━━━━━━━━━━━━━
+
+---
+
+**🛧 `Other Menu`**  
+🔧 Quick utilities at your fingertips!  
+━━━━━━━━━━━━━━━━━━━━  
+• ${prefix}calculator - *Calculate your math problems* 🧮  
+━━━━━━━━━━━━━━━━━━━━
+
+---
+
+**🛑 *CYBER-DEXTER-MD V3* 🛑**  
+`─────  ❁ CYBER-DEXTER-MD ❁  ─────`
