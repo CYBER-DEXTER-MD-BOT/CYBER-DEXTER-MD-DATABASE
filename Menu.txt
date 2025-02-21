@@ -1,7 +1,7 @@
 ╭━━━━━━━【 *CYBER-DEXTER-MD V3* 】━━━━━━━ 
 ✨ *Bot Name*: *CYBER-DEXTER-MD*  
 ⚙️ *Type*: *NodeJs*  
-💻 *Team*: *CYBER TEAM*  
+💻 *Owner*: *CYBER-DEXTER*  
 🔑 *Prefix*: *[${prefix}]*  
 🌀 *Version*: *v 3.0.9*  
 ╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -13,7 +13,7 @@ Welcome to the world of *CYBER-DEXTER-MD*. Let's make it an awesome experience! 
 
 ---
 
-📥 *⎯Download Media⎯*  
+📥 *_Download Media_*  
 🌈 *Get your favorite media directly with ease!*
 
 ╭───────────────────────────╮  
@@ -28,7 +28,7 @@ Welcome to the world of *CYBER-DEXTER-MD*. Let's make it an awesome experience! 
 
 ---
 
-⚙️ *⎯CYBER-DEXTER-MD Settings⎯*  
+⚙️ *_CYBER-DEXTER-MD Settings_*  
 🔧 *Customize and control your bot with these commands.*
 
 ╭──────────────────────────────╮  
@@ -41,7 +41,7 @@ Welcome to the world of *CYBER-DEXTER-MD*. Let's make it an awesome experience! 
 
 ---
 
-👥 *⎯Group Management⎯*  
+👥 *_Group Management_*  
 💬 *Manage your group seamlessly!*
 
 ╭───────────────────────────╮  
@@ -56,7 +56,7 @@ Welcome to the world of *CYBER-DEXTER-MD*. Let's make it an awesome experience! 
 
 ---
 
-🧩 *⎯Convert Media⎯*  
+🧩 *_Convert Media_*  
 🎨 *Convert and create media effortlessly.*
 
 ╭───────────────────────────╮  
@@ -68,7 +68,7 @@ Welcome to the world of *CYBER-DEXTER-MD*. Let's make it an awesome experience! 
 
 ---
 
-🤖 *⎯AI Tools⎯*  
+🤖 *_AI Tools_*  
 💡 *Access AI-based tools for productivity.*
 
 ╭───────────────────────────╮  
@@ -81,7 +81,7 @@ Welcome to the world of *CYBER-DEXTER-MD*. Let's make it an awesome experience! 
 
 ---
 
-📐 *⎯Utilities⎯*  
+📐 *_Utilities_*  
 🔧 *Quick tools to make your life easier.*
 
 ╭───────────────────────────╮  
