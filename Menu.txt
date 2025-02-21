@@ -8,87 +8,87 @@
 
 ---
 
-💫 **Hello, _${pushName}_!**  
+💫 *Hello, _${pushName}_!*  
 Welcome to the world of *CYBER-DEXTER-MD*. Let's make it an awesome experience! 🎉
 
 ---
 
-### 📥 **⎯ Download Media ⎯**  
+📥 *⎯Download Media⎯*  
 🌈 *Get your favorite media directly with ease!*
 
 ╭───────────────────────────╮  
-➤ **${prefix}song** - *Download a YouTube song* 🎶  
-➤ **${prefix}video** - *Download YouTube video* 🎥  
-➤ **${prefix}pinterestdl** - *Download Pinterest media* 📸  
-➤ **${prefix}apk** - *Download APK file* 📲  
-➤ **${prefix}tiktok** - *Download TikTok video* 📹  
-➤ **${prefix}fb** - *Download Facebook media* 📱  
-➤ **${prefix}play** - *Play YouTube audio* 🎧  
+➤ *${prefix}song* - *Download a YouTube song* 🎶  
+➤ *${prefix}video* - *Download YouTube video* 🎥  
+➤ *${prefix}pinterestdl* - *Download Pinterest media* 📸  
+➤ *${prefix}apk* - *Download APK file* 📲  
+➤ *${prefix}tiktok* - *Download TikTok video* 📹  
+➤ *${prefix}fb* - *Download Facebook media* 📱  
+➤ *${prefix}play* - *Play YouTube audio* 🎧  
 ╰───────────────────────────╯
 
 ---
 
-### ⚙️ **⎯ CYBER-DEXTER-MD Settings ⎯**  
+⚙️ *⎯CYBER-DEXTER-MD Settings⎯*  
 🔧 *Customize and control your bot with these commands.*
 
 ╭──────────────────────────────╮  
-➤ **${prefix}set-reply** - *Set auto-reply message* 💬  
-➤ **${prefix}npm** - *Search NPM packages* 🔍  
-➤ **${prefix}obfuscate** - *Obfuscate JavaScript* 🧑‍💻  
-➤ **${prefix}remove-reply** - *Remove auto-reply* ✂️  
-➤ **${prefix}rule-reply** - *Set rule-based autoresponder* 📜  
+➤ *${prefix}set-reply* - *Set auto-reply message* 💬  
+➤ *${prefix}npm* - *Search NPM packages* 🔍  
+➤ *${prefix}obfuscate* - *Obfuscate JavaScript* 🧑‍💻  
+➤ *${prefix}remove-reply* - *Remove auto-reply* ✂️  
+➤ *${prefix}rule-reply* - *Set rule-based autoresponder* 📜  
 ╰──────────────────────────────╯
 
 ---
 
-### 👥 **⎯ Group Management ⎯**  
+👥 *⎯Group Management⎯*  
 💬 *Manage your group seamlessly!*
 
 ╭───────────────────────────╮  
-➤ **${prefix}ping** - *Check bot ping* ⚡  
-➤ **${prefix}send-st** - *Auto-share status update* 🔄  
-➤ **${prefix}kick** - *Kick a group member* 🚪  
-➤ **${prefix}promote** - *Promote a group member* 👑  
-➤ **${prefix}invite** - *Invite people to the group* ✉️  
-➤ **${prefix}mute** - *Mute group chat* 🔇  
-➤ **${prefix}unmute** - *Unmute group chat* 🔊  
+➤ *${prefix}ping* - *Check bot ping* ⚡  
+➤ *${prefix}send-st* - *Auto-share status update* 🔄  
+➤ *${prefix}kick* - *Kick a group member* 🚪  
+➤ *${prefix}promote* - *Promote a group member* 👑  
+➤ *${prefix}invite* - *Invite people to the group* ✉️  
+➤ *${prefix}mute* - *Mute group chat* 🔇  
+➤ *${prefix}unmute* - *Unmute group chat* 🔊  
 ╰───────────────────────────╯
 
 ---
 
-### 🧩 **⎯ Convert Media ⎯**  
+🧩 *⎯Convert Media⎯*  
 🎨 *Convert and create media effortlessly.*
 
 ╭───────────────────────────╮  
-➤ **${prefix}sticker** - *Convert media to sticker* 📸  
-➤ **${prefix}fancy** - *Create fancy text* ✨  
-➤ **${prefix}tomp3** - *Convert video to MP3* 🎶  
-➤ **${prefix}tts** - *Text to Speech* 🗣️  
+➤ *${prefix}sticker* - *Convert media to sticker* 📸  
+➤ *${prefix}fancy* - *Create fancy text* ✨  
+➤ *${prefix}tomp3* - *Convert video to MP3* 🎶  
+➤ *${prefix}tts* - *Text to Speech* 🗣️  
 ╰───────────────────────────╯
 
 ---
 
-### 🤖 **⎯ AI Tools ⎯**  
+🤖 *⎯AI Tools⎯*  
 💡 *Access AI-based tools for productivity.*
 
 ╭───────────────────────────╮  
-➤ **${prefix}ai** - *AI response generator* 🤖  
-➤ **${prefix}gpt** - *GPT-powered conversation* 🧠  
-➤ **${prefix}gpt4** - *Access GPT-4 model* 🧑‍💻  
-➤ **${prefix}bing** - *Use Bing AI assistant* 🌐  
-➤ **${prefix}copilot** - *GitHub Copilot* 🧑‍💻  
+➤ *${prefix}ai* - *AI response generator* 🤖  
+➤ *${prefix}gpt* - *GPT-powered conversation* 🧠  
+➤ *${prefix}gpt4* - *Access GPT-4 model* 🧑‍💻  
+➤ *${prefix}bing* - *Use Bing AI assistant* 🌐  
+➤ *${prefix}copilot* - *GitHub Copilot* 🧑‍💻  
 ╰───────────────────────────╯
 
 ---
 
-### 📐 **⎯ Utilities ⎯**  
+📐 *⎯Utilities⎯*  
 🔧 *Quick tools to make your life easier.*
 
 ╭───────────────────────────╮  
-➤ **${prefix}calculator** - *Perform quick calculations* 🔢  
+➤ *${prefix}calculator* - *Perform quick calculations* 🔢  
 ╰───────────────────────────╯
 
 ---
 
-**💡 CYBER-DEXTER-MD is here to assist you with everything!**  
+*💡 CYBER-DEXTER-MD is here to assist you with everything!*  
 `─────  ❁ CYBER-DEXTER-MD ❁  ─────`
