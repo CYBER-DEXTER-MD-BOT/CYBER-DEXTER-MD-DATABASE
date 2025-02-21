@@ -37,7 +37,7 @@ Welcome to the world of *CYBER-DEXTER-MD*. Let's make it an awesome experience! 
 ➤ *${prefix}obfuscate* - *Obfuscate JavaScript* 🧑‍💻  
 ➤ *${prefix}remove-reply* - *Remove auto-reply* ✂️  
 ➤ *${prefix}rule-reply* - *Set rule-based autoresponder* 📜 
-➤ *${prefix}cyberdexter1-id* - *All members To send Bluck Massage* 🔮
+➤ *${prefix}cyberdexter1-id* - *All members To send Bluck Massage*🔮
 ➤ *${prefix}cyberdexter-id* - *All members Save to VCf file* 📥
 ╰──────────────────────────────╯
 
