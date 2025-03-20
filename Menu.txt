@@ -1,9 +1,9 @@
-╭━━━━━━━【 *CYBER-DEXTER-MD V3* 】━━━━━━━ 
+╭━━━━━━━【 *CYBER-DEXTER-MD* 】━━━━━━━ 
 ✨ *Bot Name*: *CYBER-DEXTER-MD*  
 ⚙️ *Type*: *NodeJs*  
 💻 *Owner*: *CYBER-DEXTER*  
 🔑 *Prefix*: *[${prefix}]*  
-🌀 *Version*: *v 3.0.9*  
+🌀 *Version*: *v 1.0.9*  
 ╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ---
