@@ -6,7 +6,7 @@ OWNER NUMBERS:
 ──────────────────────────
 
 CYBER-DEXTER-MD REPO:
-Error ❌
+https://github.com/CYBER-DEXTER-MD-V1/CYBER-DEXTER-MD.git
 
 ──────────────────────────
 
